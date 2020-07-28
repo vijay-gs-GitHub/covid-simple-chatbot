@@ -83,4 +83,4 @@ This applications is developed for <b>IBM Call for Code challenge 2020</b> based
 
 ## Covid-simple-chatbot Screen Shot
 
-![Watson Assistant Credentials](readme_images/covid-simple-chatbot-screen-shot)
+![Covid19 simple chatbot screen shot](readme_images/covid-simple-chatbot-screen-shot.png)
