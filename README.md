@@ -1,14 +1,7 @@
 <h1 align="center" style="border-bottom: none;"> COVID - 19 CRISES COMMUNICATION CHATBOT</h1>
-<h3 align="center">This applications is developed for <b>IBM Call for Code challenge 2020</b> . Its a simple Node.js application that is connected to a COVID-19 chatbot created using the IBM Watson Assistant APIs..</h3>
-<p align="center">
-  <a href="http://travis-ci.org/watson-developer-cloud/assistant-simple">
-    <img alt="Travis" src="https://travis-ci.org/watson-developer-cloud/assistant-simple.svg?branch=master">
-  </a>
-  <a href="#badge">
-    <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
-  </a>
-</p>
-</p>
+<h3 align="center">This prototype is developed for <b>IBM Call for Code challenge 2020</b> . Its a simple Node.js website application that is connected to a COVID-19 chatbot created using the IBM Watson Assistant APIs..</h3>
+
+![Covid19 simple chatbot screen shot](readme_images/covid-simple-chatbot-screen-shot.png)
 
 You can view a [demo][demo_url] of this app.
 
@@ -91,8 +84,6 @@ You can view a [demo][demo_url] of this app.
     ```
 
 1. View the application in a browser at `localhost:3000`.
-
-![Covid19 simple chatbot screen shot](readme_images/covid-simple-chatbot-screen-shot.png)
 
 
 [demo_url]:https://covid-assistant-simple-vijaygs.mybluemix.net/
