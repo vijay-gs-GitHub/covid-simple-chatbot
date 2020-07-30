@@ -80,7 +80,4 @@ This applications is developed for <b>IBM Call for Code challenge 2020</b> based
 
 1. View the application in a browser at `localhost:3000`.
 
-
-## Covid-simple-chatbot Screen Shot
-
 ![Covid19 simple chatbot screen shot](readme_images/covid-simple-chatbot-screen-shot.png)
