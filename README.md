@@ -5,10 +5,16 @@
 
 You can view a [demo][demo_url] of this app.
 
-## Prerequisites
-1. Sign up for an [IBM Cloud account](https://www.ibm.com/account/reg/us-en/signup?formid=urx-42793&eventid=cfc-2020?cm_mmc=OSocial_Blog-_-Audience+Developer_Developer
+## Files in this repository
+The files in this repository have the following purpose:
+*  [watson-assistant/skill-CDC-COVID-FAQ.json](watson-assistant/skill-CDC-COVID-FAQ.json): Skill / Workspace file used with IBM Watson Assistant service
+* [cloud-functions/covid/cloud-functions.js](cloud-functions/covid/cloud-functions.js): Code for cloud function actions which calls covid19api.
+1. Other files in the covid-simple-chat bot are related to nodejs app. 
 
-1. You should already have a Watson Assistant service created when you deployed the COVID bot. You need to get the credentials from that chatbot to use in your Node.js application:
+## Prerequisites
+1. Sign up for an [IBM Cloud account](https://cloud.ibm.com/registration/).
+
+1. You should already have a Watson Assistant service created when you deployed the COVID-19 Chat bot. You need to get the credentials from that chatbot to use in your Node.js application:
     - Log in to your IBM Cloud account.
     - Go to resources and open your Watson Assistant service instance.
     - You will be taken to Watson Assistant launch page. Click **Service Credentials** to view the service credentials.
@@ -18,7 +24,7 @@ You can view a [demo][demo_url] of this app.
     
 ## Configuring the application
 
-1. Clone the repository and cd into `starter-kit/covid-simple`.
+1. Clone the repository and cd into `covid-simple-chatbot`.
 
 2. Copy the *.env.example* file to a file called *.env*
 
