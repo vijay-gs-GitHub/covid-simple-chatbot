@@ -9,7 +9,7 @@ You can view a [demo][demo_url] of this app.
 The files in this repository have the following purpose:
 *  [watson-assistant/skill-CDC-COVID-FAQ.json](watson-assistant/skill-CDC-COVID-FAQ.json): Skill / Workspace file used with IBM Watson Assistant service
 * [cloud-functions/covid/cloud-functions.js](cloud-functions/covid/cloud-functions.js): Code for cloud function actions which calls covid19api.
-1. Other files in the covid-simple-chat bot are related to nodejs app. 
+* Other files in the [covid-simple-chatbot](covid-simple-chatbot) folder are related to nodejs app. 
 
 ## Prerequisites
 1. Sign up for an [IBM Cloud account](https://cloud.ibm.com/registration/).
