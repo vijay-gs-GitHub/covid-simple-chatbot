@@ -1,5 +1,5 @@
 applications:
-- name: covid-assistant-simple
+- name: covid-assistant-simple-vijaygs
   command: npm start
   path: .
   memory: 256M

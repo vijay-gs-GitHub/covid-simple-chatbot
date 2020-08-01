@@ -1,7 +1,7 @@
-<h1 align="center" style="border-bottom: none;"> COVID - 19 CRISES COMMUNICATION CHATBOT</h1>
+<h1 align="center" style="border-bottom: none;"> COVID - 19 CRISIS COMMUNICATION CHATBOT</h1>
 <h3 align="center">This prototype is developed for <b>IBM Call for Code challenge 2020</b> . Its a simple Node.js website application that is connected to a COVID-19 chatbot created using the IBM Watson Assistant APIs..</h3>
 
-![Covid19 simple chatbot screen shot](readme_images/covid-simple-chatbot-screen-shot.png)
+![Covid19 simple chatbot screen shot](readme_images/covid-simple-chatbot-screen-shot-01.png)
 
 You can view a [demo][demo_url] of this app.
 
